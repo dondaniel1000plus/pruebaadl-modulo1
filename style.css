@@ -1,0 +1,40 @@
+<style > body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f4f4f9;
+  color: #333;
+}
+header,
+section {
+  background: white;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+header h1 {
+  color: #333;
+}
+header h2 {
+  color: #555;
+  font-size: 20px;
+}
+section h3 {
+  color: #333;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 4px;
+}
+ul {
+  line-height: 1.6;
+}
+</style > footer {
+  background-color: #1679dc;
+  color: #196bb3;
+  text-align: center;
+  padding: 10px 20px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid #dee2e6;
+}
